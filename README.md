@@ -1,5 +1,7 @@
 ### Contents of words used in ComputerScience
 
+If anything is wrong, I would appreciate your feedback.   
+
 ---
 
 #### Operating System
@@ -8,7 +10,7 @@
 * [uid/pid/ppid](https://www.notion.so/UID-PID-PPID-a85237a6b065477cbc4e0b998b39957c)
 
 
-#### Common Sense
+#### Common
 
 * [Agent](https://www.notion.so/agent-1b229ec6fbd24446ad6038c09ba987cd)
 * [Binding](https://www.notion.so/binding-df3a3293fc214168838801758e06cd34)
