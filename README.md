@@ -1,6 +1,6 @@
 ### Contents of words used in ComputerScience
 
-If anything is wrong, I would appreciate your feedback.   
+If anything is wrong, I would appreciate your feedback. :)
 
 ---
 
