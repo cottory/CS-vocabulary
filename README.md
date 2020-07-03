@@ -22,4 +22,4 @@ If anything is wrong, I would appreciate your feedback. :)
 
 + Socket Programming
 
-  * [[JAVA] Socket Server Example (TCP/IP)](https://www.notion.so/JAVA-Socket-Server-Example-TCP-IP-9e8ca38fd59b476b81d76f6b68d5fa4e)
+    * [[JAVA] Socket Server Example (TCP/IP)](https://www.notion.so/JAVA-Socket-Server-Example-TCP-IP-9e8ca38fd59b476b81d76f6b68d5fa4e)
