@@ -8,5 +8,5 @@
 
 
 활용(Module)   
-* [[Java]UUID 클래스로 key값 생성하기](https://www.notion.so/Java-UUID-key-db59b8894015448d83d433b9bc8c0505)
-* [[Java]UUID 클래스로 단축URL 만들기](https://www.notion.so/JAVA-UUID-URL-da5ec209b6694ae6b4559a2fbb5861a7)
+* [[Java] UUID 클래스로 key값 생성하기](https://www.notion.so/Java-UUID-key-db59b8894015448d83d433b9bc8c0505)
+* [[Java] UUID 클래스로 단축URL 만들기](https://www.notion.so/JAVA-UUID-URL-da5ec209b6694ae6b4559a2fbb5861a7)
