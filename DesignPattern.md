@@ -3,4 +3,4 @@
 ---
 
 기본 개념
-* [JVM-JRE-JDK](https://www.notion.so/JVM-JRE-JDK-a10f62fadc2645fc86c35448a101af1e)
++ [빌더 패턴(Builder Pattern)](https://www.notion.so/Builder-Pattern-3a724ae3914b4007a93673cfa3371796)
