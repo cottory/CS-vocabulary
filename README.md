@@ -31,4 +31,4 @@ If anything is wrong, I would appreciate your feedback. :)
 
 #### Naming Convention
 
-* [Naming Convention(from Clean Code)](https://www.notion.so/Naming-Convention-b76bb26b6fb346959ba868aa3cecfeab)
+* [Naming Convention(Content is taken from Clean Code)](https://www.notion.so/Naming-Convention-b76bb26b6fb346959ba868aa3cecfeab)
