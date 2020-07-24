@@ -9,6 +9,7 @@
 * [Lamda Expression](https://www.notion.so/Java-Lamda-Expression-d6a746de8b7e46878b727402b7c6ead5)
 * [Thread Pool (Executors, ExecutorService 이용)](https://www.notion.so/Java-Thread-Pool-Executors-ExecutorService-c2796443098946dc86da9b4aff6caa79)
 * [[Java] 예외처리(Feat. try-catch vs throws)](https://www.notion.so/Java-Feat-try-catch-vs-throws-af0a5d7720dd41f881dcce4fb971c7d7)
+* [[Java] 접근제어자](https://www.notion.so/Java-a0cff416974f4f95b17aae01233d07b7)
 
 
 활용(Module)   
