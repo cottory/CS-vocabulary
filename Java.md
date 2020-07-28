@@ -11,7 +11,7 @@
 * [[Java] 예외처리(Feat. try-catch vs throws)](https://www.notion.so/Java-Feat-try-catch-vs-throws-af0a5d7720dd41f881dcce4fb971c7d7)
 * [[Java] 접근제어자](https://www.notion.so/Java-a0cff416974f4f95b17aae01233d07b7)
 * [[Java] Immutable Object](https://www.notion.so/Java-Immutable-Object-9ae3e4fec8324c77abaffafcada8f295)
-* [방어 복사](https://www.notion.so/b6449a4bb6a44070bf96dbdf1f72c1bb)
+* [[Java] 방어 복사](https://www.notion.so/b6449a4bb6a44070bf96dbdf1f72c1bb)
 
 
 활용(Module)   
