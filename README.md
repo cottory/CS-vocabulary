@@ -36,4 +36,4 @@ If anything is wrong, I would appreciate your feedback. :)
 
 #### ETC
 * [함수형 프로그래밍](https://www.notion.so/9cbccb1b95dc4135a101991ae701f632)
-* [일급 객체](https://www.notion.so/VPR-f030006af3a449a9b30bb219860dc117)
+* [일급 객체(VPR)](https://www.notion.so/VPR-f030006af3a449a9b30bb219860dc117)
