@@ -32,3 +32,8 @@ If anything is wrong, I would appreciate your feedback. :)
 #### Naming Convention
 
 * [Naming Convention(Content is taken from Clean Code)](https://www.notion.so/Naming-Convention-b76bb26b6fb346959ba868aa3cecfeab)
+
+
+#### ETC
+* [함수형 프로그래밍](https://www.notion.so/9cbccb1b95dc4135a101991ae701f632)
+* [일급 객체](https://www.notion.so/VPR-f030006af3a449a9b30bb219860dc117)
