@@ -12,6 +12,7 @@
 * [[Java] 접근제어자](https://www.notion.so/Java-a0cff416974f4f95b17aae01233d07b7)
 * [[Java] Immutable Object](https://www.notion.so/Java-Immutable-Object-9ae3e4fec8324c77abaffafcada8f295)
 * [[Java] 방어 복사](https://www.notion.so/Java-b6449a4bb6a44070bf96dbdf1f72c1bb)
+* [[Java] Java 클래스 로딩 과정](https://www.notion.so/Java-Java-b434010a0682425ab77ce7eebd217a55)
 
 
 활용(Module)   
