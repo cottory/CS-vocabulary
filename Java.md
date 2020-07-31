@@ -13,8 +13,9 @@
 * [[Java] Immutable Object](https://www.notion.so/Java-Immutable-Object-9ae3e4fec8324c77abaffafcada8f295)
 * [[Java] 방어 복사](https://www.notion.so/Java-b6449a4bb6a44070bf96dbdf1f72c1bb)
 * [[Java] Java 클래스 로딩 과정](https://www.notion.so/Java-Java-b434010a0682425ab77ce7eebd217a55)
-
+* [[Java] private 생성자](https://www.notion.so/Java-private-9145802e32c84114b2ae87f51bf8e923)
 
 활용(Module)   
 * [[Java] UUID 클래스로 key값 생성하기](https://www.notion.so/Java-UUID-key-db59b8894015448d83d433b9bc8c0505)
 * [[Java] UUID 클래스로 단축URL 만들기](https://www.notion.so/JAVA-UUID-URL-da5ec209b6694ae6b4559a2fbb5861a7)
+
