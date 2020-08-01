@@ -13,7 +13,7 @@
 * [[Java] 예외처리(Feat. try-catch vs throws)](https://www.notion.so/Java-Feat-try-catch-vs-throws-af0a5d7720dd41f881dcce4fb971c7d7)
 * [[Java] 접근제어자](https://www.notion.so/Java-a0cff416974f4f95b17aae01233d07b7)
 * [[Java] final 키워드를 사용하는 경우](https://www.notion.so/Java-final-2e3010ef862a4706862dc5b32b3f5b85)
-* [Lamda Expression](https://www.notion.so/Java-Lamda-Expression-d6a746de8b7e46878b727402b7c6ead5)
+* [[Java] Lamda Expression](https://www.notion.so/Java-Lamda-Expression-d6a746de8b7e46878b727402b7c6ead5)
 
 ##### Advanced
 
