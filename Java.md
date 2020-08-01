@@ -5,6 +5,10 @@
 기본 개념
 * [자바 프로그램 구동원리(feat. Hello World)](https://www.notion.so/hello-world-f76e77404d5d4cda8a441342f3e8ae40)
 * [[Java] 자바 가상 머신(JVM)과 자바의 메모리 영역](https://www.notion.so/Java-JVM-319c48ae38534eb5bd04b00a6cdc8aa5)
+* [[Java] 데이터 타입](https://www.notion.so/Java-8cedd164eceb4bd8be2485961441451b)
+
+
+
 * [JVM-JRE-JDK](https://www.notion.so/JVM-JRE-JDK-a10f62fadc2645fc86c35448a101af1e)
 * [자바 메모리 구조(Static, Stack, heap)](https://www.notion.so/JAVA-Static-Stack-heap-b964277b8ac14653af68ef623466cbca)
 * [try with resources](https://www.notion.so/Java-try-with-resources-e76ff050d0834b4a84e7484be7e38d36)
