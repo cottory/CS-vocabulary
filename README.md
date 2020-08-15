@@ -1,4 +1,4 @@
-### Contents of words used in ComputerScience
+### A repo of words used in computer science
 
 If anything is wrong, I would appreciate your feedback. :)
 
