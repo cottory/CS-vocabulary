@@ -1,4 +1,4 @@
-### A repo of words used in computer science
+### A repo of words used in Computer Science
 
 If anything is wrong, I would appreciate your feedback. :)
 
