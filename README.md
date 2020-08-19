@@ -35,6 +35,12 @@ If anything is wrong, I would appreciate your feedback. :)
 * [Naming Convention(Content is taken from Clean Code)](https://www.notion.so/Naming-Convention-b76bb26b6fb346959ba868aa3cecfeab)
 
 
+#### Web
+
+* [쿠키와 세션](https://www.notion.so/a93b6b380d264e8d9840fc448ac3e2bd)
+
+
+
 #### ETC
 * [함수형 프로그래밍](https://www.notion.so/9cbccb1b95dc4135a101991ae701f632)
 * [일급 객체(VPR)](https://www.notion.so/VPR-f030006af3a449a9b30bb219860dc117)
