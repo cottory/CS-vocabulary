@@ -22,11 +22,12 @@ If anything is wrong, I would appreciate your feedback. :)
 
 #### Network
 
-+ Basic
-  + [포트(Port)](https://www.notion.so/6-Port-50edf2f163084cd7bde4e0ef408460b8)
-  + [소켓(Socket)](https://www.notion.so/7-Socket-ed5931efedb9452b96198162ba2ade06)
+* Basic
+  * [IP Address](https://www.notion.so/IP-Address-32923010e317455ea5fffb706f189896)
+  * [Port](https://www.notion.so/Port-84172333e9f14a4782653f2acc3a4791)
+  * [Socket](https://www.notion.so/Socket-6a38a058e18f42cfbc209326d33e16fd)
 
-+ Socket Programming
+* Socket Programming
   + [[JAVA] Socket Client Example (TCP/IP)](https://www.notion.so/JAVA-Socket-Client-Example-TCP-IP-17995479b64847968d3601287c3ed5d2)
   * [[JAVA] Socket Server Example (TCP/IP)](https://www.notion.so/JAVA-Socket-Server-Example-TCP-IP-9e8ca38fd59b476b81d76f6b68d5fa4e)
 
